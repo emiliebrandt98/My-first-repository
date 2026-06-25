@@ -4,7 +4,8 @@
 
 ---
 ![seal](https://images.unsplash.com/photo-1559157693-c34156e0f8c3?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-###Durch meine Weiterbildung im Bereich Web Dev erhoffe ich mir mehr über den Hintergund und Funtkionen von digitalen Produkten zu erfahren. 
+### Weiterbildung
+Mein Studium und meinen vergangenen Erfahrungen mit Websites und Apps haben mein Interesse weiter in das Thema einzusteigen verstärkt, weshalb ich mich für eine Weiterbildung entschieen habe. Durch meine Weiterbildung im Bereich Web Dev erhoffe ich mir mehr über den Hintergund und Funtkionen von digitalen Produkten zu erfahren.  
 
 >"Kreativität erfordert den Mut, Gewissheiten loszulassen." – Erich Fromm
 
