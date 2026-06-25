@@ -10,18 +10,31 @@ Mein Studium und meinen vergangenen Erfahrungen mit Websites und Apps haben mein
 >"Kreativität erfordert den Mut, Gewissheiten loszulassen." – Erich Fromm
 
 ### Zu meiner Person
-Interessen:
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/emilie-brandt-bbb84a230/)
+
+#### Meine Fähigkeiten:
+- Photoshop, InDesign, Illustrator, AfterEffects, Lightroom
+- Wordpress
+- HTML und CSS
+- Gutes Zeitmanagement
+- Teamarbeit
+
+#### Meine Tools:
+- Notion
+- Claude AI
+- Figma
+- Adobe Creative Cloud
+- Microsoft Office
+
+#### Interessen:
 - Lesen (Sachbücher, Fantasy, Romane, …)
 - neue Rezepte ausprobieren
 - Musik hören (mein Mood spielt dabei eine große Rolle)
 - Kreative ausleben (Puzzeln, Zeichnen, Keramiken bemalen)
 
-| Fähigkeiten     | Programme       |
-| --------------- | --------------- |
-| Eigeninitiative | Notion          |
-| Teamwork        | Creative Cloud  |
-| Zeitmanagement  | Figma           |
+
+#### Sprache
 
 | Sprachen        | Level           |
 | --------------- | --------------- |
